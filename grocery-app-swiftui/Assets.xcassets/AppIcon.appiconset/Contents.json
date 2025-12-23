@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "grocery_basket_icon_centered_1024_big.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -12,6 +13,7 @@
           "value" : "dark"
         }
       ],
+      "filename" : "grocery_basket_icon_centered_1024_big 1.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -23,6 +25,7 @@
           "value" : "tinted"
         }
       ],
+      "filename" : "grocery_basket_icon_centered_1024_big 2.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
